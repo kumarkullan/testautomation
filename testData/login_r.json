@@ -1,0 +1,49 @@
+[  
+ 
+  {
+    "username": "kumar.kullan@clarivate.com",
+    "passwordField":  "Jump4Fun!"
+  }, 
+
+  {
+    "username": "ranjan.ashish@clarivate.com",
+    "passwordField":  "Jump5Fun!"
+  },
+
+
+  {
+    "username": "message_center_noquery@cpa.com",
+    "passwordField":  "Jump4Fun!"
+  },
+
+  {
+    "username": "message_center_withquery_access@cpa.com",
+    "passwordField":  "Jump4Fun!"
+  },
+
+  {
+    "username": "katekate@tr.com",
+    "passwordField":  "Qawsed12345"
+  },
+
+    {
+      "username": "keshav.girmannagari@clarivate.com",
+      "passwordField":  "Jump4Fun!"
+    },
+  
+    {
+      "username": "ATest2@clarivate.com",
+      "passwordField":  "atest123!"
+    },
+  
+    {
+      "username": "ATest3@clarivate.com",
+      "passwordField":  "atest123!"
+    },
+  
+    {
+      "username": "ATest4@clarivate.com",
+      "passwordField":  "atest123!"
+    }
+  ]
+  

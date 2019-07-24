@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es5", "es6", "es7", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "inlineSourceMap": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "typeRoots": ["node_modules/@types"],
+    "removeComments": false,
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

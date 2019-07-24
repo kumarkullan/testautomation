@@ -1,0 +1,28 @@
+{
+    "UserId": 0,
+    "UserName": "testUserName@test.com",
+    "FirstName": "testFirstName",
+    "LastName": "testLastName",
+    "Theme": "Light",
+    "CippClientIds": [],
+    "IsSysadmin": false,
+    "IsIpms": false,
+    "IsAccessManager": false,
+    "IsActive": true,
+    "IsLockedOut": false,
+    "CippContentGroupIds": [],
+    "PreferredCulture": "en-US",
+    "IsInternalUser": true,
+    "IpManagerClientAssociations": [
+      {
+        "Client": {
+          "ClientCode": "MCPP"
+        },
+        "ContentGroups": [
+          {
+            "ContentGroupId": 1
+          }
+        ]
+      }   
+    ]
+  }

@@ -1,0 +1,33 @@
+[
+  {
+    "Comment": "Test Date for TrademarkDEF",
+    "DocketNumber": "TrademarkDEF_",
+    "Country": "A.R.I.P.O. - (AP)",
+    "CaseType": "Cautionary Notice Publication - (U)",
+    "FilingType": "Madrid Convention - (M)"
+  },
+  {
+    "Comment": "Test Date for DisclousureDEF",
+    "DisclosureNumber": "Disclosure_"
+  },
+  {
+    "Comment": "Test Date for GenerallP1",
+    "KeyText": "keytext_",
+    "Country": "A.R.I.P.O. - (AP)"
+  },
+  {
+    "Comment": "Test Date for PatentDEF",
+    "DocketNumber": "PatentDEF_",
+    "Country": "A.R.I.P.O. - (AP)",
+    "CaseType": "DEFENSIVE PUBLICATION - (F)",
+    "RelationType": "DIVISION - (D)",
+    "FilingType": "GULF COOPERATION COUNCIL - (G)"
+  },
+  {
+    "Comment": "Test data for update fields",
+    "updatedDocketNumber": "Upd_Trademark_",
+    "UpdatedDisclosureNumber": "Upd_Disclosure_",
+    "UpdatedKeyText": "Upd_KeyText_",
+    "updatedDocketNumber_pat": "Upd_Patent_"
+  }
+]

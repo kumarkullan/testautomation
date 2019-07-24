@@ -1,0 +1,18 @@
+[
+  { "comment":"QA SERVER",
+    "server":"TIPD-VW201.int.compumark.com",
+    "database":"S5PP47",
+    "userid":"IPManager",
+    "password":"IPManager"   
+  },
+
+  { "comment":"Query values for testing",
+    "FeeGroupID_QueryParameters1":"2393,23",
+    "FeeGroupID_QueryParameters2":"1133,2534",   
+    "FeeGroupID_QueryParameters3":"3265,514"
+   
+   
+  }
+
+
+]

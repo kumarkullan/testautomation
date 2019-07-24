@@ -1,0 +1,27 @@
+{
+    "ContentGroupId": 0,
+    "ContentGroupName": "testContentGroupName",
+    "Description": "testContentGroupDescription",
+    "PermissionsList": [
+      {
+        "Id": 2194
+      },
+      {
+        "Id": 2268
+      }
+    ],
+    "CategoryList": [
+      105
+    ],
+    "SystemResources": [],
+    "UserContentGroupPool": [
+      {
+        "Name": "IPManager",
+        "IsUserSelected": true,
+        "OriginalSelectedValue": true,
+        "IsChanged": true,
+        "ContentGroupId": 0
+      }
+    ],
+    "ApplicationSecuritySource": []
+  }

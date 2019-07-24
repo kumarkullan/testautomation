@@ -1,0 +1,21 @@
+[
+  {
+    "username": "ATest1@clarivate.com",
+    "passwordField":  "atest123!"
+  },
+
+  {
+    "username": "ATest2@clarivate.com",
+    "passwordField":  "atest123!"
+  },
+
+  {
+    "username": "ATest3@clarivate.com",
+    "passwordField":  "atest123!"
+  },
+
+  {
+    "username": "ATest4@clarivate.com",
+    "passwordField":  "atest123!"
+  }
+]

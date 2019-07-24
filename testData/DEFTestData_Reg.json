@@ -1,0 +1,98 @@
+ 
+[
+       {
+      "Comment": "Test Date for PatentDEF",
+      "DocketNumber": "Test98435378_",
+      "Country": "France - (FR)",
+      "CaseType": "REGULAR CASE TYPE - (REG)",
+      "RelationType": "ORIGINAL OR PATENT CASE - (ORG)",
+      "FilingType": "NATIONAL CASE - (NAT)",
+      "FilingNumber":"123478",
+      "Status":"APPLICATION IS GRANTED - (G)",
+      "ParentFilingDate":"2002/05/05",
+      "ApplicationNumber":"11282012",
+      "ApplicationDate":"2005/08/08",
+      "PatentNumber":"Pat122332",
+      "GrantDate":"2008/07/07",
+      "PaidDate":"2018/12/01",
+      "DueDate":"2018/12/01",
+      "ApplicationDate_Update":"2005/06/06",
+      "ApplicationDate_Update1":"2003/06/06",
+      "DueDate_update":"2012/12/01",
+      "ProjectedDue":"50",
+      "DropDate":"2004/12/21",
+      "TaxYear":"12",
+      "AddPaidNotes":"The amount will be paid in full on due date",
+      "Country_Update":"IRAN - (Iran)",
+      "ExpirationDate_Override":"2004/06/01",
+      "PaymentStatus_DrpdownSelect1": "PS1 - (PaymentStatus1)",
+      "PaymentStatus_DrpdownSelect2": "PS2 - (PaymentStatus2)"
+
+    },
+    {
+      "Comment": "Test Date for PatentDEF Record to verify FeeAmounts group id 23 & 2393",
+      "DocketNumber": "Test144432c_",
+      "Country": "ALBA - (Albania)",
+      "CaseType": "REGULAR CASE TYPE - (REG)",
+      "RelationType": "ORIGINAL OR PATENT CASE - (ORG)",
+      "FilingType": "NATIONAL CASE - (NAT)",
+      "FilingNumber":"123478",
+      "Status":"APPLICATION IS GRANTED - (G)",    
+      "ParentFilingDate":"05/05/2002",  
+      "ApplicationNumber":"11282012",
+      "ApplicationDate":"04/04/2004",
+      "PatentNumber":"Pat122332",
+      "GrantDate":"06/06/2004"      
+    },
+
+    {
+      "Comment": "Test Date for PatentDEF Record to verify FeeAmounts group ids in (9,1133,2534)",
+      "DocketNumber": "Test144432c_",
+      "Country": "IRAN - (Iran)",
+      "CaseType": "REGULAR CASE TYPE - (REG)",
+      "RelationType": "ORIGINAL OR PATENT CASE - (ORG)",
+      "FilingType": "NATIONAL CASE - (NAT)",
+      "FilingNumber":"123478",
+      "Status":"APPLICATION IS GRANTED - (G)",  
+      "ParentFilingDate":"05/05/2002",    
+      "ApplicationNumber":"11282012",
+      "ApplicationDate":"05/12/2002",
+      "PatentNumber":"Pat122332",
+      "GrantDate":"06/12/2002"      
+    },
+
+    {
+      "Comment": "Test Date for PatentDEF Record to verify FeeAmounts group ids in (3265,514)",
+      "DocketNumber": "Test144432c_",
+      "Country": "LITH - (Lithuania)",
+      "CaseType": "REGULAR CASE TYPE - (REG)",
+      "RelationType": "ORIGINAL OR PATENT CASE - (ORG)",
+      "FilingType": "NATIONAL CASE - (NAT)",
+      "FilingNumber":"123478",
+      "Status":"APPLICATION IS GRANTED - (G)",
+      "ParentFilingDate":"05/05/2003",
+      "ApplicationNumber":"11282012",
+      "ApplicationDate":"8/08/2005",
+      "PatentNumber":"Pat122332",
+      "GrantDate":"07/07/2006"      
+    },
+
+    {
+      "Comment": "Test Date for TrademarkDEF",
+      "DocketNumber": "Test98435378_",
+      "Country": "United States - (US)",
+      "CaseType": "REGULAR CASE TYPE - (REG)",     
+      "FilingType": "NATIONAL CASE - (NAT)",
+      "FilingNumber":"123478",
+      "Status":"CASE HAS BEEN REGISTERED - (G)",
+      "Attorney":"AARON L. SCHWARTZ - (vvvv)",
+      "CurrentApplicationNumber":"1234",
+      "OriginalApplicationNumber":"1234",
+      "CurrentApplicationDate":"2018/12/12",
+      "OriginalApplicationDate":"2018/12/12",
+      "CurrentRegistrationDate":"2018/12/12",
+      "OriginalRegistrationDate":"2018/12/12"
+    }
+     
+  ]
+

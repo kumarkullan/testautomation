@@ -37,7 +37,7 @@
     "xpath-to-css": "^1.0.2"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "os-homedir": "^1.0.2",
     "testcafe-reporter-csvline": "^1.0.5",
     "testcafe-reporter-elixir": "^1.2.0",

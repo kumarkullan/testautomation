@@ -1,6 +1,6 @@
 # Project Name
 
-Docketing portal Automation using Testcafe Tool
+Testcafe Tool
 
 ## Installation
 
